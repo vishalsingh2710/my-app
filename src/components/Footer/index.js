@@ -6,7 +6,7 @@ export default function Footer() {
     <div className="footer-top-section">
         <div className="footer-news-section">
             <div className="footer-news-text">
-                <h1 className="footer-heading">Sign up for our newsletter! New</h1>
+                <h1 className="footer-heading">Sign up for our newsletter!</h1>
                 <p className="footer-paragraph">Get notified about launch, updates and weekly blogs.</p>
             </div>
             <div className="footer-search-section">
